@@ -1,4 +1,4 @@
-# Flexmap
+# Flex deployer
 Efficient Large-Scale Model Inference on Edge NPUs via Adaptive Subgraph Repartitioning
 样例使用指导
 功能描述
